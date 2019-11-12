@@ -8,7 +8,7 @@ public class Apptest {
     @Test
     public void deveser10() {
         Application application = new Application();
-        Integer expected = 10;
+        Integer expected = 5;
         Integer response = application.soma(2, 3);
         Assert.assertEquals(expected, response);
     }
