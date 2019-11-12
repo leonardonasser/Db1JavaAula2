@@ -7,10 +7,10 @@ public class App {
 
     //Usando função
     public static String menornumero(Double valor1, Double valor2, Double valor3){
-    String resultado;
+    String resultado=" ";
 
         if (valor1<valor2 && valor1<valor3) {
-            resultado="Menor valor é o 1";
+           resultado="Menor valor é o 1";
         }
 //=============
         if (valor2<valor1 && valor2<valor3){
@@ -20,6 +20,7 @@ public class App {
         if (valor3<valor1 && valor3<valor2){
             resultado="Menor valor é o 3";
         }
+
         return resultado;
     }
 
