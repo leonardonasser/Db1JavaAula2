@@ -9,7 +9,7 @@ public class App {
     public static Integer soma(Integer num1,Integer num2){
     Integer resultado;
 
-    resultado= num1+num2;
+    resultado= num1-num2;
 
     return resultado;
     }
