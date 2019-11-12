@@ -6,17 +6,17 @@ package com.db1.do1start;
 public class Apptest {
 
     @Test
-    public void deveser5() {
+    public void deveser10() {
         Application application = new Application();
-        Integer expected = 5;
+        Integer expected = 10;
         Integer response = application.soma(2, 3);
         Assert.assertEquals(expected, response);
     }
 
         @Test
-        public void Naodeveser10() {
+        public void Naodeveser25() {
             Application application = new Application();
-            Integer expected = 10;
+            Integer expected = 25;
             Integer response = application.soma(2, 3);
             Assert.assertNotEquals(expected, response);
 
