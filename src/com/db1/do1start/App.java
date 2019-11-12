@@ -6,11 +6,11 @@ import java.util.Scanner;
 public class App {
 
     //Usando função
-    public static String maiusculo(String textoM){
+    public static String minusculo(String textoMinus){
     String resultado;
 
 
-    resultado= textoM.toUpperCase();
+    resultado= textoMinus.toLowerCase();
 
     return resultado;
     }
@@ -19,13 +19,13 @@ public class App {
         Scanner ler = new Scanner(System.in);
         String texto,result;
 
-        System.out.println("Digite o texto: ");
+        System.out.println("Digite o texto em maiusculo: ");
         texto = ler.next();
 
 
         //retornando a função
-        result = maiusculo(texto);
-        System.out.println("Texto em maiusculo: "+result);
+        result = minusculo(texto);
+        System.out.println("Texto em minusculo: "+result);
 
 
      }
