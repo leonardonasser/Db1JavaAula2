@@ -6,9 +6,9 @@ package com.db1.do1start;
 public class Apptest {
 
     @Test
-    public void deveser19() {
+    public void deveser5() {
         Application application = new Application();
-        Integer expected = 19;
+        Integer expected = 5;
         Integer response = application.soma(2, 3);
         Assert.assertEquals(expected, response);
     }
