@@ -5,33 +5,32 @@ import java.util.Scanner;
 
 public class App {
 
+    //Usando função
+    public static Integer soma(Integer num1,Integer num2){
+    Integer resultado;
+
+    resultado= num1+num2;
+
+    return resultado;
+    }
+
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
-        double valor1, valor2,valor3;
+        int result, num1, num2;
 
-        System.out.println("Digite o numero 1: ");
-        valor1 = ler.nextInt();
+        System.out.println("Digite o num1: ");
+        num1 = ler.nextInt();
 
-        System.out.println("Digite o numero 2: ");
-        valor2 = ler.nextInt();
+        System.out.println("Digite o num2: ");
+        num2 = ler.nextInt();
 
-        System.out.println("Digite o numero 3: ");
-        valor3 = ler.nextInt();
+        //retornando a função
+        result = soma(num1, num2);
+        System.out.println(result);
 
-        if (valor1<valor2 && valor1<valor3) {
-            System.out.println("Menor valor é o 1: " + valor1);
-        }
-//=============
-        if (valor2<valor1 && valor2<valor3){
-            System.out.println("Menor valor é o 2: " + valor2);
-        }
-//==============
-        if (valor3<valor1 && valor3<valor2){
-            System.out.println("Menor valor é o 3: " + valor3);
-        }
 
+     }
     }
-}
 
 
 
