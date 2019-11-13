@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96de129-0ab1-482d-a272-a1bd9f91e798" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB1STARTAULA1/com/db1/do1start/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB1STARTAULA1/com/db1/do1start/Apptest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB1STARTAULA1/com/db1/do1start/Apptest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db1/do1start/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/do1start/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db1/do1start/Apptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db1/do1start/Apptest.java" afterDir="false" />
     </list>
@@ -20,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Apptest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
-              <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+            <state relative-caret-position="134">
+              <caret line="133" selection-start-line="132" selection-end-line="133" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+            <state relative-caret-position="304">
+              <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -106,7 +103,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573674538677" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573674875929" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -124,23 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Apptest.Ex2deMatematica">
-    <configuration name="Apptest.Ex12destring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DB1STARTAULA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.db1.do1start.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.db1.do1start" />
-      <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="METHOD_NAME" value="Ex12destring" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Apptest.Ex3deMatematica">
     <configuration name="Apptest.Ex1deMatematica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1STARTAULA1" />
       <extension name="coverage">
@@ -168,6 +149,22 @@
       <option name="PACKAGE_NAME" value="com.db1.do1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
       <option name="METHOD_NAME" value="Ex2deMatematica" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apptest.Ex3deMatematica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB1STARTAULA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.db1.do1start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.db1.do1start" />
+      <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
+      <option name="METHOD_NAME" value="Ex3deMatematica" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Apptest.Ex3deMatematica" />
         <item itemvalue="JUnit.Apptest.Ex2deMatematica" />
         <item itemvalue="JUnit.Apptest.Exs2deMatematica" />
         <item itemvalue="JUnit.Apptest.Ex1deMatematica" />
         <item itemvalue="JUnit.Apptest.InteiroEx7Desafio" />
-        <item itemvalue="JUnit.Apptest.Ex12destring" />
       </list>
     </recent_temporary>
   </component>
@@ -229,9 +226,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 17h 01m 19s.xml">
-      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Apptest_Ex6destring - 2019.11.13 at 17h 03m 11s.xml">
       <configuration name="Apptest.Ex6destring" configurationId="JUnit" />
     </history-entry>
@@ -259,6 +253,9 @@
     <history-entry file="Apptest_Ex1deMatematica - 2019.11.13 at 17h 23m 04s.xml">
       <configuration name="Apptest.Ex1deMatematica" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Apptest_Ex2deMatematica - 2019.11.13 at 17h 49m 00s.xml">
+      <configuration name="Apptest.Ex2deMatematica" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -273,7 +270,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24183007" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24183007" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,7 +278,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32352942" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32352942" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -333,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Apptest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="102" column="59" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+        <state relative-caret-position="134">
+          <caret line="133" selection-start-line="132" selection-end-line="133" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -343,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+        <state relative-caret-position="304">
+          <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
         </state>
       </provider>
     </entry>

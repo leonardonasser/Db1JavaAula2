@@ -146,4 +146,22 @@ public class Application {
         }
         return cont;
     }
+
+
+
+
+
+//3 - Método que exiba a média de três números
+public Integer Ex3deMatematica(Double valor1,Double valor2,Double valor3) {
+    valor1 = 5.0;
+    valor2 = 10.0;
+    valor3 = 8.0;
+    Integer media=0,soma = 0;
+
+    soma=valor1+valor2+valor3;
+    media=soma/3;
+
+    return media;
+
+ }
 }

@@ -129,4 +129,14 @@ public void  Ex1deMatematica() {
 
         }
     }
+
+//3 - Método que exiba a média de três números
+@Test
+public void  Ex3deMatematica() {
+    Application application = new Application();
+    Integer expected = 1;
+    Integer response = application.Ex3deMatematica(10.0,5.0,8.0);
+    Assert.assertEquals(expected, response);
+   }
 }
+
