@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Apptest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="151">
+              <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573663754843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573673092575" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -124,8 +124,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Apptest.ParaParLer1">
-    <configuration name="Apptest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Apptest.Ex1deMatematica">
+    <configuration name="Apptest.Ex11destring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1STARTAULA1" />
       <extension name="coverage">
         <pattern>
@@ -135,28 +135,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.do1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Apptest.DeveSerTrueParaPar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DB1STARTAULA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.db1.do1start.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.db1.do1start" />
-      <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="METHOD_NAME" value="DeveSerTrueParaPar" />
+      <option name="METHOD_NAME" value="Ex11destring" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apptest.ParaParLer1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Apptest.Ex12destring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1STARTAULA1" />
       <extension name="coverage">
         <pattern>
@@ -166,13 +151,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.do1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="METHOD_NAME" value="ParaParLer1" />
+      <option name="METHOD_NAME" value="Ex12destring" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apptest.deveser10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Apptest.Ex1deMatematica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1STARTAULA1" />
       <extension name="coverage">
         <pattern>
@@ -182,13 +167,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.do1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="METHOD_NAME" value="deveser10" />
+      <option name="METHOD_NAME" value="Ex1deMatematica" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apptest.seforpar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Apptest.Ex6destring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DB1STARTAULA1" />
       <extension name="coverage">
         <pattern>
@@ -198,7 +183,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.db1.do1start" />
       <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
-      <option name="METHOD_NAME" value="seforpar" />
+      <option name="METHOD_NAME" value="Ex6destring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apptest.InteiroEx7Desafio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DB1STARTAULA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.db1.do1start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.db1.do1start" />
+      <option name="MAIN_CLASS_NAME" value="com.db1.do1start.Apptest" />
+      <option name="METHOD_NAME" value="InteiroEx7Desafio" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Apptest.ParaParLer1" />
-        <item itemvalue="JUnit.Apptest.DeveSerTrueParaPar" />
-        <item itemvalue="JUnit.Apptest" />
-        <item itemvalue="JUnit.Apptest.seforpar" />
-        <item itemvalue="JUnit.Apptest.deveser10" />
+        <item itemvalue="JUnit.Apptest.Ex1deMatematica" />
+        <item itemvalue="JUnit.Apptest.InteiroEx7Desafio" />
+        <item itemvalue="JUnit.Apptest.Ex12destring" />
+        <item itemvalue="JUnit.Apptest.Ex6destring" />
+        <item itemvalue="JUnit.Apptest.Ex11destring" />
       </list>
     </recent_temporary>
   </component>
@@ -228,35 +229,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Apptest_deveser10 - 2019.11.12 at 17h 26m 45s.xml">
-      <configuration name="Apptest.deveser10" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 16h 59m 38s.xml">
+      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_seforpar - 2019.11.12 at 17h 37m 05s.xml">
-      <configuration name="Apptest.seforpar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 17h 01m 10s.xml">
+      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest - 2019.11.12 at 17h 38m 43s.xml">
-      <configuration name="Apptest" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 17h 01m 19s.xml">
+      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_DeveSerTrueParaPar - 2019.11.13 at 14h 40m 21s.xml">
-      <configuration name="Apptest.DeveSerTrueParaPar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex6destring - 2019.11.13 at 17h 03m 11s.xml">
+      <configuration name="Apptest.Ex6destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_DeveSerTrueParaPar - 2019.11.13 at 14h 40m 46s.xml">
-      <configuration name="Apptest.DeveSerTrueParaPar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex6destring - 2019.11.13 at 17h 03m 23s.xml">
+      <configuration name="Apptest.Ex6destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_DeveSerTrueParaPar - 2019.11.13 at 14h 44m 35s.xml">
-      <configuration name="Apptest.DeveSerTrueParaPar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex6destring - 2019.11.13 at 17h 03m 32s.xml">
+      <configuration name="Apptest.Ex6destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_DeveSerTrueParaPar - 2019.11.13 at 14h 45m 32s.xml">
-      <configuration name="Apptest.DeveSerTrueParaPar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 17h 05m 09s.xml">
+      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_DeveSerTrueParaPar - 2019.11.13 at 14h 45m 41s.xml">
-      <configuration name="Apptest.DeveSerTrueParaPar" configurationId="JUnit" />
+    <history-entry file="Apptest_Ex12destring - 2019.11.13 at 17h 05m 36s.xml">
+      <configuration name="Apptest.Ex12destring" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_ParaParLer1 - 2019.11.13 at 14h 47m 27s.xml">
-      <configuration name="Apptest.ParaParLer1" configurationId="JUnit" />
+    <history-entry file="Apptest_InteiroEx7Desafio - 2019.11.13 at 17h 11m 38s.xml">
+      <configuration name="Apptest.InteiroEx7Desafio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Apptest_ParaParLer1 - 2019.11.13 at 14h 47m 57s.xml">
-      <configuration name="Apptest.ParaParLer1" configurationId="JUnit" />
+    <history-entry file="Apptest_InteiroEx7Desafio - 2019.11.13 at 17h 11m 53s.xml">
+      <configuration name="Apptest.InteiroEx7Desafio" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -291,6 +292,20 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/db1/do1start/Apptest.java</url>
+          <line>86</line>
+          <properties class="com.db1.do1start.Apptest" method="Ex12destring">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DB1STARTAULA1.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -318,15 +333,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/db1/do1start/Apptest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="151">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
