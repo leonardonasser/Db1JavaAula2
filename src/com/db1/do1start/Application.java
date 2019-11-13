@@ -115,18 +115,35 @@ public class Application {
 
 //1 - Método que exiba qual é o menor valor entre dois doubles
     public Boolean Ex1deMatematica(Double valor1,Double valor2){
-       valor1=5;
-       valor2=10;
+       valor1=5.0;
+       valor2=10.0;
 
         if (valor1 < valor2) {
            return true;
         } else {
            return false;
         }
-
     }
 
 
+//2 - Método que exiba qual é o menor valor entre três doubles
+    public Integer Ex2deMatematica(Double valor1,Double valor2,Double valor3){
+        valor1 =5.0;
+        valor2 =10.0;
+        valor3 =8.0;
+        Integer cont=0;
+        if (valor1 < valor2 && valor1<valor3) {
+             cont=1;
+
+        }
+        if(valor2<valor1 && valor2<valor3){
+            cont=2;
 
 
+        }
+        if(valor3<valor1 && valor3<valor2){
+            cont=3;
+        }
+        return cont;
+    }
 }

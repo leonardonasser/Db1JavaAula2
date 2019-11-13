@@ -100,7 +100,7 @@ public class Apptest {
 public void  Ex1deMatematica() {
     Application application = new Application();
     Boolean expected = true;
-    Boolean response = application.Ex1deMatematica(10,5);
+    Boolean response = application.Ex1deMatematica(10.0,5.0);
     Assert.assertEquals(expected, response);
 
     if(expected==true){
@@ -110,4 +110,23 @@ public void  Ex1deMatematica() {
     }
    }
 
+
+//2 - Método que exiba qual é o menor valor entre três doubles
+       @Test
+    public void  Ex2deMatematica() {
+        Application application = new Application();
+        Integer expected = 1;
+        Integer response = application.Ex2deMatematica(10.0,5.0,8.0);
+        Assert.assertEquals(expected, response);
+
+        if(expected==1){
+            System.out.println("1 menor");
+        }if(expected==2){
+            System.out.println("2 menor");
+        }
+        if(expected==3){
+            System.out.println("3 menor");
+
+        }
+    }
 }
