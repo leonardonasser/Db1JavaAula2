@@ -1,18 +1,15 @@
 package com.db1.do1start;
 
 
+
 public class Application {
-    public Integer soma(Integer numero1,Integer numero2){
+    public Integer soma(Integer numero){
 
-        Integer resultado;
-
-     numero1=10;
-     numero2=2;
+        numero=50;
+        Integer x=0;
 
 
-
-        resultado=numero1/numero2;
-       return resultado;
+        return numero;
 
 
     }
